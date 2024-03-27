@@ -1,7 +1,5 @@
 export * from './chat-bubbles/GptMessageAudio';
 
-export * from './chat-bubbles/GptOrthographyMessage';
-
 export * from './chat-bubbles/MyMessage';
 
 export * from './chat-bubbles/GptMessage';
